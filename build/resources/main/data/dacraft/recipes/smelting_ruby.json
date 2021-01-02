@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "dacraft:ruby"
+  },
+  "result": "minecraft:emerald",
+  "experience": 4.2,
+  "cookingtime": 190
+}

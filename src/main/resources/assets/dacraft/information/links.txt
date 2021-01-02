@@ -1,0 +1,9 @@
+Hardness Values: https://minecraftmodcustomstuff.fandom.com/wiki/Hardness
+
+Resistance Values: https://minecraftmodcustomstuff.fandom.com/wiki/Resistance
+
+Harvest Levels: https://minecraftmodcustomstuff.fandom.com/wiki/HarvestLevel
+
+Loot Table Generator: https://misode.github.io/loot-table/
+
+Crafting Recipe Generator: https://crafting.thedestruc7i0n.ca/

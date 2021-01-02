@@ -1,3 +1,5 @@
+com/xsych/dacraft/registry/ModBlocks.java
+ com.xsych.dacraft.registry.ModBlocks
 com/xsych/dacraft/DaCraft.java
  com.xsych.dacraft.DaCraft
 com/xsych/dacraft/registry/ModItems.java

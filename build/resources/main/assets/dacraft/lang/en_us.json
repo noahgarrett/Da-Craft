@@ -1,3 +1,5 @@
 {
-  "item.dacraft.ruby": "Ruby"
+  "item.dacraft.ruby": "Ruby",
+  "block.dacraft.ruby_block": "Ruby Block",
+  "itemGroup.dacraft.general": "DaCraft"
 }
